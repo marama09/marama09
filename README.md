@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Tam Development LLC.**
 
-- 🌱 I’m currently learning **React,Laravel**
+- 🌱 I’m currently learning **React,Django**
 
 - 📫 How to reach me **maram.alfaifi@hotmail.com**
 
